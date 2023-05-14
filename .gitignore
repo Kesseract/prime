@@ -1,5 +1,6 @@
-env\
-__pycache__\
+env/
+__pycache__/
 *.pyc
 *.pyo
-*.egg-info\
+*.egg-info/
+exe/
